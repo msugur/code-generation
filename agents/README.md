@@ -24,6 +24,11 @@ The agents module implements sophisticated AI agents capable of:
 - **Observing**: Processing results and adjusting strategies
 - **Learning**: Adapting behavior based on observations
 
+### 📸 Agent in Action
+
+![ReAct Agent Execution Flow](screenshots/image.png)
+*ReAct agent processing a user query through the Thought → Action → Observation loop*
+
 ## 🧠 ReAct Agent Architecture
 
 ### Core Components
